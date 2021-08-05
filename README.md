@@ -1,0 +1,2 @@
+# NavigationTransitionController
+A fully functional UINavigationController wrapper that handles all of your UIViewControllerInteractiveTransitioning, UIViewControllerAnimatedTransitioning, and UIViewControllerTransitioningDelegate protocols for you.
