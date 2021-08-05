@@ -1,0 +1,22 @@
+{
+  "name": "NavigationTransitionController",
+  "version": "0.1.0",
+  "summary": "A short description of NavigationTransitionController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HackShitUp/NavigationTransitionController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HackShitUp": "josh.m.choi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/HackShitUp/NavigationTransitionController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NavigationTransitionController/Classes/**/*"
+}

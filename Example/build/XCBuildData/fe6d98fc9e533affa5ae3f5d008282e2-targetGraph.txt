@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+NavigationTransitionController in Pods
+Pods-NavigationTransitionController_Example in Pods, depends on:
+NavigationTransitionController in Pods (explicit)
+Pods-NavigationTransitionController_Tests in Pods, depends on:
+Pods-NavigationTransitionController_Example in Pods (explicit)

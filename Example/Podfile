@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'NavigationTransitionController_Example' do
+  pod 'NavigationTransitionController', :path => '../'
+
+  target 'NavigationTransitionController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
