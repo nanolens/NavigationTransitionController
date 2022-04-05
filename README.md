@@ -109,8 +109,6 @@ pod 'NavigationTransitionController'
 ```
 
 ## Author
-
-[HackShitUp](https://github.com/HackShitUp), josh.m.choi@gmail.com  
 [Nanolens, Inc.](https://nanolens.co)
 
 ## License
